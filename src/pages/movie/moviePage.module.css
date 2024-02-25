@@ -1,0 +1,62 @@
+.container {
+    width: max-content;
+    height: 850px;
+}
+h2 {
+    margin: 0%;
+}
+
+.movie_name {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2%;
+}
+.movie_name_rating {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.movie_video {
+    display: flex;
+    margin: 2%;
+}
+.movie_video_add {
+    display: flex;
+    width: 20%;
+    flex-direction: column;
+}
+.movie_video_add_1 {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 3%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.movie_video_add_2 {
+    width: 100%;
+    height: 100%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contains {
+    display: flex;
+    margin: 2%;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.contains_person {
+    display: flex;
+    flex-direction: row;
+}

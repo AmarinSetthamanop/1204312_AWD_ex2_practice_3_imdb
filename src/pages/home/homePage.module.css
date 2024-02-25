@@ -1,0 +1,31 @@
+.card_movie {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.person {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.person_div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: smaller;
+}
+.person_image {
+    margin: 10px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.person_next_button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

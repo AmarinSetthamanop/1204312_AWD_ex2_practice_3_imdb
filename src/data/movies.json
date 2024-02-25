@@ -1,0 +1,379 @@
+[
+    {
+        "name": "Oppenheimer",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+        "video": "https://www.youtube.com/embed/uYPbbksJxIg?si=1HC8fEN9xXZfNWTe",
+        "text": "The story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb.",
+        "imdb_rating": 8.4,
+        "popularity": 15,
+        "director": [
+            {
+                "name": "Christopher Nolan",
+                "popularity": 98,
+                "text": "Best known for his cerebral, often nonlinear, storytelling, acclaimed writer-director Christopher Nolan was born on July 30, 1970, in London, England. Over the course of 15 years of filmmaking, Nolan has gone from low-budget independent films to working on some of the biggest blockbusters ever made.At 7 years old, Nolan began making short movies with his father's Super-8 camera. While studying English Literature at University College London, he shot 16-millimeter films at U.C.L.'s film society, where he learned the...",
+                "img": "https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/fez7X_oevNs?si=4Bsv_aYUIKLJkSeK"
+            }
+        ],
+        "writers": [
+            {
+                "name": "Christopher Nolan",
+                "popularity": 98,
+                "text": "Best known for his cerebral, often nonlinear, storytelling, acclaimed writer-director Christopher Nolan was born on July 30, 1970, in London, England. Over the course of 15 years of filmmaking, Nolan has gone from low-budget independent films to working on some of the biggest blockbusters ever made.At 7 years old, Nolan began making short movies with his father's Super-8 camera. While studying English Literature at University College London, he shot 16-millimeter films at U.C.L.'s film society, where he learned the...",
+                "img": "https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/fez7X_oevNs?si=4Bsv_aYUIKLJkSeK"
+            },
+            {
+                "name": "Kai Bird",
+                "popularity": 8,
+                "text": "Kai Bird is known for Oppenheimer (2023), American Prometheus and The Good Spy.",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/71e3LV8oVSL.jpg",
+                "video": "https://www.youtube.com/embed/OLxS49q_xek?si=mXw1fl7eG60Js5ES"
+            },
+            {
+                "name": "Martin Sherwin",
+                "popularity": 9,
+                "text": "Martin Sherwin was born on 2 July 1937 in Brooklyn, New York City, New York, USA. He was a writer, known for Oppenheimer (2023), The Day After Trinity (1981) and The Trials of J. Robert Oppenheimer (2010). He was married to Susan Smukler. He died on 6 October 2021 in Washington, District of Columbia, USA.",
+                "img": "https://www.wilsoncenter.org/sites/default/files/media/uploads/images/Sherwin_Martin_bio.jpg",
+                "video": "https://www.youtube.com/embed/WNimmDYYThk?si=QC3ABswjzYEoeZD8"
+            }
+        ],
+        "stars": [
+            {
+                "name": "Cillian Murphy",
+                "popularity": 67,
+                "text": "Striking Irish actor Cillian Murphy was born in Douglas, the oldest child of Brendan Murphy, who works for the Irish Department of Education, and a mother who is a teacher of French. He has three younger siblings. Murphy was educated at Presentation Brothers College, Cork. He went on to study law at University College Cork, but dropped out after about a year. During this time Murphy also pursued an...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMDUxY2M1NTQtNzcwNC00ZDljLTk4YjctYzJjZGNiYTc0YTE1XkEyXkFqcGdeQXVyMTY5MDA5MDc3._V1_.jpg",
+                "video": "https://www.youtube.com/embed/dytBlncILDs?si=cH7MI9jQDOaeVAcA"
+            },
+            {
+                "name": "Emily Blunt",
+                "popularity": 88,
+                "text": "Emily Olivia Leah Blunt is a British actress known for her roles in The Devil Wears Prada (2006), The Young Victoria (2009), Edge of Tomorrow (2014), and The Girl on the Train (2016), among many others.Blunt was born on February 23, 1983, in Roehampton, South West London, England, the second of four children in the family of Joanna Mackie, a former actress and teacher, and Oliver Simon Peter Blunt, a...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTUxNDY4MTMzM15BMl5BanBnXkFtZTcwMjg5NzM2Ng@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/dN8-xnYUR48?si=2ELdFLWbf9W8YlIg"
+            },
+            {
+                "name": "Matt Damon",
+                "popularity": 500,
+                "text": "Matthew Paige Damon was born on October 8, 1970, in Boston, Massachusetts, to Kent Damon, a stockbroker, realtor and tax preparer, and Nancy Carlsson-Paige, an early childhood education professor at Lesley University. Matt has an older brother, Kyle, a sculptor. His father was of English and Scottish descent, and his mother is of Finnish and Swedish ancestry. The family lived in Newton until his parents divorced i...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/l5ujKZGgP8o?si=F_mxrO9HHW09HDoX"
+            }
+        ]
+    },
+
+    {
+        "name": "Avengers: Endgame",
+        "img": "https://upload.wikimedia.org/wikipedia/th/0/0d/Avengers_Endgame_poster.jpg",
+        "video": "https://www.youtube.com/embed/5xbxbt2jKug?si=9z2QaedzXaRH4vGR",
+        "text": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' action...",
+        "imdb_rating": 8.4,
+        "popularity": 235,
+        "director": [
+            {
+                "name": "Anthony Russo",
+                "popularity": 4,
+                "text": "Anthony J. Russo is an American filmmaker and producer who works alongside his brother Joseph Russo. They have directed You, Me and Dupree, Cherry and the Marvel films Captain America: The Winter Soldier, Captain America: Civil War, Avengers: Infinity War and Avengers: Endgame. Endgame is one of the highest grossing films of all time.",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTc2NjM5MTM0Ml5BMl5BanBnXkFtZTgwMTY3ODczNjM@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/DhabFdpIf_Y?si=A7ejyIsCGHKnGmdb"
+            },
+            {
+                "name": "Joe Russo",
+                "popularity": 7,
+                "text": "Joseph Vincent Russo is an American filmmaker and producer who works alongside his brother Anthony Russo. They have directed You, Me and Dupree, Cherry and the Marvel films Captain America: The Winter Soldier, Captain America: Civil War, Avengers: Infinity War and Avengers: Endgame. Endgame is one of the highest grossing films of all time.",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTc2NzY1NTY5OF5BMl5BanBnXkFtZTgwNjY3ODczNjM@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/e_j8JB2CAT4?si=dPoKSRciyUHkAaeD"
+            }
+        ],
+        "writers": [
+            {
+                "name": "Christopher Markus",
+                "popularity": 4,
+                "text": "Christopher Markus was born on 2 January 1970 in Buffalo, New York, USA. He is a writer and producer, known for Avengers: Endgame (2019), Avengers: Infinity War (2018) and Captain America: The First Avenger (2011). He has been married to Claire Saunders since 22 October 2011.",
+                "img": "https://m.media-amazon.com/images/M/MV5BMjAxMDAwODYwOV5BMl5BanBnXkFtZTcwMjc5OTEwNg@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/Ygzwr0MaUlI?si=DPRHHIR3ZLljc3uZ"
+            },
+            {
+                "name": "Stephen McFeely",
+                "popularity": 5,
+                "text": "Stephen McFeely was born on 24 February 1970 in Walnut Creek, California, USA. He is a writer and producer, known for Avengers: Endgame (2019), Captain America: The First Avenger (2011) and The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005). He is married to Jennifer Cotteleer.",
+                "img": "https://m.media-amazon.com/images/M/MV5BMjE0MTIxMzk1Nl5BMl5BanBnXkFtZTcwMzY5OTEwNg@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/L41F3mw89mY?si=NEE2QfKm0K3BLZRL"
+            },
+            {
+                "name": "Stan Lee",
+                "popularity": 6,
+                "text": "Stan Lee was an American comic-book writer, editor, and publisher, who was executive vice president and publisher of Marvel Comics.Stan was born in New York City, to Celia (Solomon) and Jack Lieber, a dress cutter. His parents were Romanian Jewish immigrants. Lee co-created Spider-Man, the Hulk, Doctor Strange, the Fantastic Four, Iron Man, Daredevil, Thor, the X-Men, and many other fictional...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/rN45yyu_rCw?si=2wNrjEZP7Upa_O7u"
+            }
+        ],
+        "stars": [
+            {
+                "name": "Robert Downey Jr.",
+                "popularity": 500,
+                "text": "Robert Downey Jr. has evolved into one of the most respected actors in Hollywood. With an amazing list of credits to his name, he has managed to stay new and fresh even after over four decades in the business.Downey was born April 4, 1965 in Manhattan, New York, the son of writer, director and filmographer Robert Downey Sr. and actress Elsie Downey (née Elsie Ann Ford). Robert's father is of half Lithuanian...",
+                "img": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/yE-8iTNMlro?si=CH4lASECijRMJXeA"
+            },
+            {
+                "name": "Chris Evans",
+                "popularity": 5000,
+                "text": "Christopher Robert Evans is an American actor, film producer, and director. Evans began his acting career in typical fashion: performing in school productions and community theatre.He was born in Boston, Massachusetts, the son of Lisa (Capuano), who worked at the Concord Youth Theatre, and G. Robert Evans III, a dentist. His uncle is former U.S. Representative Mike Capuano. Chris's father is of...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/tT7IQe_i3N8?si=VKqGHAU1LaK2jLlL"
+            },
+            {
+                "name": "Mark Ruffalo",
+                "popularity": 500,
+                "text": "Award-winning actor Mark Ruffalo was born on November 22, 1967, in Kenosha, Wisconsin, of humble means to father Frank Lawrence Ruffalo, a construction painter and Marie Rose (Hebert), a stylist and hairdresser; his father's ancestry is Italian and his mother is of half French-Canadian and half Italian descent. Mark moved with his family to Virginia Beach, Virginia, where he lived out most of his teenage years...",
+                "img": "https://m.media-amazon.com/images/M/MV5BNWIzZTI1ODUtZTUzMC00NTdiLWFlOTYtZTg4MGZkYmU4YzNlXkEyXkFqcGdeQXVyNTExOTk5Nzg@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/oWMW2umf41A?si=TqK9U_S3CR5xucmM"
+            }
+        ]
+    },
+
+    {
+        "name": "Interstellar",
+        "img": "https://s.isanook.com/mv/0/ud/8/44041/interstellar-poster-mcconaughey.jpg?ip/resize/w850/q80/jpg",
+        "video": "https://www.youtube.com/embed/zSWdZVtXT7E?si=J4fI0XjhfSvFo25x",
+        "text": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "imdb_rating": 8.7,
+        "popularity": 78,
+        "director": [
+            {
+                "name": "Christopher Nolan",
+                "popularity": 98,
+                "text": "Best known for his cerebral, often nonlinear, storytelling, acclaimed writer-director Christopher Nolan was born on July 30, 1970, in London, England. Over the course of 15 years of filmmaking, Nolan has gone from low-budget independent films to working on some of the biggest blockbusters ever made.At 7 years old, Nolan began making short movies with his father's Super-8 camera. While studying English...",
+                "img": "https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/fez7X_oevNs?si=4Bsv_aYUIKLJkSeK"
+            }
+        ],
+        "writers": [
+            {
+                "name": "Jonathan Nolan",
+                "popularity": 500,
+                "text": "Attended Loyola Academy in Wilmette, Illinois, graduating in 1994.Graduated from Georgetown University in Washington, D.C. in 1999. Majored in English.Shortly after graduating from Georgetown University, Jonathan Nolan served as a production assistant on Memento (2000).Wrote the short story, Memento Mori, on which the film Memento (2000) is based.Was co-writer, with his brother Christopher Nolan, on...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTEwNjY2MjgxMTZeQTJeQWpwZ15BbWU3MDY4NjY1Mjc@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/7PiOScaf_v8?si=wIDtvG3SoL7K-0CT"
+            },
+            {
+                "name": "Christopher Nolan",
+                "popularity": 98,
+                "text": "Attended Loyola Academy in Wilmette, Illinois, graduating in 1994.Graduated from Georgetown University in Washington, D.C. in 1999. Majored in English.Shortly after graduating from Georgetown University, Jonathan Nolan served as a production assistant on Memento (2000).Wrote the short story, Memento Mori, on which the film Memento (2000) is based.Was co-writer, with his brother Christopher Nolan, on...",
+                "img": "https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/fez7X_oevNs?si=4Bsv_aYUIKLJkSeK"
+            }
+
+        ],
+        "stars": [
+            {
+                "name": "Matthew McConaughey",
+                "popularity": 500,
+                "text": "American actor and producer Matthew David McConaughey was born in Uvalde, Texas. His mother, Mary Kathleen (McCabe), is a substitute school teacher originally from New Jersey. His father, James Donald McConaughey, was a Mississippi-born gas station owner who ran an oil pipe supply business. He is of Irish, Scottish, German, English, and Swedish descent. Matthew grew up in Longview, Texas, where...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/wD2cVhC-63I?si=pbIRsPgmiROTIu-t"
+            },
+            {
+                "name": "Anne Hathaway",
+                "popularity": 500,
+                "text": "Anne Jacqueline Hathaway was born in Brooklyn, New York, to Kate McCauley Hathaway, an actress, and Gerald T. Hathaway, a lawyer, both originally from Philadelphia. She is of mostly Irish descent, along with English, German, and French. Her first major role came in the short-lived television series Get Real (1999). She gained widespread recognition for her roles in The Princess Diaries (2001) and its...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTRhNzQ3NGMtZmQ1Mi00ZTViLTk3OTgtOTk0YzE2YTgwMmFjXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/qy61Q7dV5Ig?si=hi6C-O32qgdIssL0"
+            },
+            {
+                "name": "Jessica Chastain",
+                "popularity": 5000,
+                "text": "Jessica Michelle Chastain was born in Sacramento, California, and was raised in a middle-class household in a Northern California suburb. Her mother, Jerri Chastain, is a vegan chef whose family is originally from Kansas, and her stepfather is a fireman. She discovered dance at the age of nine and was in a dance troupe by age thirteen. She began performing in Shakespearean productions all over the Bay area.An actor i...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTU1MDM5NjczOF5BMl5BanBnXkFtZTcwOTY2MDE4OA@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/9kWez2NSlQY?si=kE3YLtd3k2PlKurY"
+            }
+        ]
+    },
+
+    {
+        "name": "Wreck-It Ralph",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_.jpg",
+        "video": "https://www.youtube.com/embed/_BcYBFC6zfY?si=7EDdcPndhWPL-xIL",
+        "text": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.",
+        "imdb_rating": 7.7,
+        "popularity": 2311,
+        "director": [
+            {
+                "name": "Rich Moore",
+                "popularity": 2,
+                "text": "Rich Moore was born on 10 May 1963 in Oxnard, California, USA. He is a director and producer, known for Wreck-It Ralph (2012), Zootopia (2016) and Ralph Breaks the Internet (2018).",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTg2OTA2NTMyNV5BMl5BanBnXkFtZTcwNTQ3NTg2OA@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/Wte7jNN4S5E?si=zVfh1hk21xjeZo_o"
+            }
+        ],
+        "writers": [
+            {
+                "name": "Rich Moore",
+                "popularity": 4,
+                "text": "Rich Moore was born on 10 May 1963 in Oxnard, California, USA. He is a director and producer, known for Wreck-It Ralph (2012), Zootopia (2016) and Ralph Breaks the Internet (2018).",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTg2OTA2NTMyNV5BMl5BanBnXkFtZTcwNTQ3NTg2OA@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/Wte7jNN4S5E?si=zVfh1hk21xjeZo_o"
+            },
+            {
+                "name": "Phil Johnston",
+                "popularity": 9,
+                "text": "Phil Johnston was born on 26 October 1971 in Hennepin County, Minnesota, USA. He is a writer and producer, known for Zootopia (2016), Wreck-It Ralph (2012) and Ralph Breaks the Internet (2018). He has been married to Jill Cordes since 7 October 2000. They have two children.",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTQ4NDkyNTYxOV5BMl5BanBnXkFtZTgwMTIxMzY3ODE@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/yGpiJUvyPjA?si=oD800ahC191jJK4v"
+            },
+            {
+                "name": "Jim Reardon",
+                "popularity": 3,
+                "text": "Jim Reardon is known for WALL·E (2008), Zootopia (2016) and The Simpsons (1989).",
+                "img": "https://image.tmdb.org/t/p/w500/s5dbDBNIHZoYp2SP9SEXobRjqh3.jpg",
+                "video": "https://www.youtube.com/embed/oECZPtEN66A?si=eS7NzD8cqCuoqPjD"
+            }
+        ],
+        "stars": [
+            {
+                "name": "John C. Reilly",
+                "popularity": 5000,
+                "text": "Character actor, dramatic leading man, or hilarious comic foil? With an astonishing range of roles already under his belt, John C. Reilly has played an eclectic host of rich characters to great effect over the years, from seedy ne'er-do-wells, to lovable, good-natured schlepps.The fifth of six children, John Christopher Reilly was born in Chicago, to a father of mostly Irish descent, and a Lithuanian-American mother, and was brought up on Chicago's tough Southwest territory. His father, also named John, ran an industrial linen...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/8mj6kgZYacg?si=EINg2WzHB206TM_T"
+            },
+            {
+                "name": "Jack McBrayer",
+                "popularity": 6,
+                "text": "Best known for his role as NBC page Kenneth Parcell on NBC primetime comedy 30 Rock (2006), Jack McBrayer was born on May 27, 1973 in Macon, Georgia. He studied theater administration at the University of Evansville in Evansville, Indiana, and went on to work at The Second City and IO Theater from 1995-2002. McBrayer became acquainted with Tina Fey during that time, which helped him ultimately secure the...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTIwNTA5OTIwN15BMl5BanBnXkFtZTYwMTA0NTc0._V1_.jpg",
+                "video": "https://www.youtube.com/embed/mPLxrc2F5Uk?si=KJa4YTtO4dKvuPuj"
+            },
+            {
+                "name": "Jane Lynch",
+                "popularity": 5000,
+                "text": "Jane Marie Lynch is an American actress, comedian and author. She is known for starring as Sue Sylvester in the musical comedy series Glee (2009-2015), which earned her a Primetime Emmy Award. Lynch also gained recognition for her roles in Christopher Guest's mockumentary films, such as Best in Show (2000), A Mighty Wind (2003) and For Your Consideration (2006).",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTk4MDcwOTA1M15BMl5BanBnXkFtZTcwNTQ2Njg0Mw@@._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/QjaEyuLIUyE?si=qU6ux4paqEwDriYE"
+            }
+        ]
+    },
+
+    {
+        "name": "Ratatouille",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://www.youtube.com/embed/NgsQ8mVkN8w?si=668MmXkzayzpPOh-",
+        "text": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+        "imdb_rating": 8.1,
+        "popularity": 658,
+        "director": [
+            {
+                "name": "Brad Bird",
+                "popularity": 2,
+                "text": "Phillip Bradley Brad Bird is an American director, screenwriter, animator, producer and occasional voice actor, known for both animated and live-action films. Bird was born in Kalispell, Montana, the youngest of four children of Marjorie A. (née Cross) and Philip Cullen Bird. His father worked in the propane business, and his grandfather, Francis Wesley Frank Bird, who was born in County Sligo, Ireland, was a...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTk5Mzg1ODcyNV5BMl5BanBnXkFtZTcwMjU1ODkyMw@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/dE6NRFs5Ikw?si=28PfybVkvJU-yO2A"
+            },
+            {
+                "name": "Jan Pinkava",
+                "popularity": 5,
+                "text": "Jan Pinkava was born on 21 June 1963 in Prague, Czechoslovakia [now Czech Republic]. He is a producer and director, known for Ratatouille (2007), Geri's Game (1997) and A Bug's Life (1998). He has been married to Kay Renard since September 1994.",
+                "img": "https://m.media-amazon.com/images/M/MV5BZDVkZjRlMzgtN2JjNy00ZWQ4LTg2ZDgtM2RkZjJjMzIyODRmXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/EX01pdOAENs?si=lohWGcOyI4TJS2qh"
+            }
+        ],
+        "writers": [
+            {
+                "name": "Brad Bird",
+                "popularity": 2,
+                "text": "Phillip Bradley Brad Bird is an American director, screenwriter, animator, producer and occasional voice actor, known for both animated and live-action films. Bird was born in Kalispell, Montana, the youngest of four children of Marjorie A. (née Cross) and Philip Cullen Bird. His father worked in the propane business, and his grandfather, Francis Wesley Frank Bird, who was born in County Sligo, Ireland, was a...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTk5Mzg1ODcyNV5BMl5BanBnXkFtZTcwMjU1ODkyMw@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/dE6NRFs5Ikw?si=28PfybVkvJU-yO2A"
+            },
+            {
+                "name": "Jan Pinkava",
+                "popularity": 5,
+                "text": "Jan Pinkava was born on 21 June 1963 in Prague, Czechoslovakia [now Czech Republic]. He is a producer and director, known for Ratatouille (2007), Geri's Game (1997) and A Bug's Life (1998). He has been married to Kay Renard since September 1994.",
+                "img": "https://m.media-amazon.com/images/M/MV5BZDVkZjRlMzgtN2JjNy00ZWQ4LTg2ZDgtM2RkZjJjMzIyODRmXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/EX01pdOAENs?si=lohWGcOyI4TJS2qh"
+            },
+            {
+                "name": "Jim Capobianco",
+                "popularity": 4,
+                "text": "Jim Capobianco was born on 22 March 1969 in Saddle Brook, New Jersey, USA. He is a writer and actor, known for Ratatouille (2007), Mary Poppins Returns (2018) and Leonardo (2009).",
+                "img": "https://m.media-amazon.com/images/M/MV5BZjc2YjRiODMtZDdjNy00N2YzLTkwNGItNTdmNDIyYjk0MGY2XkEyXkFqcGdeQXVyMTY3NTY5OTcx._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/vdxYFk8BeSc?si=9067TO-0T0c5vbZF"
+            }
+        ],
+        "stars": [
+            {
+                "name": "Brad Garrett",
+                "popularity": 5000,
+                "text": "Standing 6 feet 9 inches tall, Garrett grew up in Woodland Hills outside of Los Angeles. His father was a hearing aid specialist working in geriatrics and his mother was a housewife. Garrett spent a whopping six weeks at UCLA before going into stand-up comedy full time. He began performing his act at various Los Angeles comedy clubs, getting his start at the Ice House in Pasadena and the Improv in...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMjEwMjYyMjYxNF5BMl5BanBnXkFtZTgwNzE0MDU3ODE@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/_yksOW4QHk0?si=y8qxzk1acWw6cEfH"
+            },
+            {
+                "name": "Lou Romano",
+                "popularity": 8,
+                "text": "Lou Romano is an American animator and voice actor who is well-known for voicing Alfredo Linguini from the Ratatouille franchise. He also animated and voiced in other works such as The Incredibles, The Powerpuff Girls, The Iron Giant, Samurai Jack and The Boxtrolls. He worked at both Pixar and Laika Animation Studios.",
+                "img": "https://m.media-amazon.com/images/M/MV5BMzU2MzM5NDA0M15BMl5BanBnXkFtZTcwMzMxNjUwOA@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/x6wnvcNCKgw?si=-z6iPn6kvGTgWS2f"
+            },
+            {
+                "name": "Patton Oswalt",
+                "popularity": 5000,
+                "text": "Patton Oswalt has been headlining at comedy clubs all over the United States since 1996, as well as appearing in his own standup specials on Comedy Central and HBO. He was chosen as Entertainment Weekly's It comedian in 2002. He is a regular on Late Night with Conan O'Brien (1993). His other television credits include appearances on Seinfeld (1989) and NewsRadio (1995).As a writer, Oswalt spent two...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMTU1OTEyNjEyNl5BMl5BanBnXkFtZTgwODkxMjI4NzM@._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/IuzCilEFBgo?si=IVHwECuPJkoZIqH7"
+            }
+        ]
+    },
+
+    {
+        "name": "Godzilla Minus One",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTZkNWQyMDEtMmRhNi00Nzc5LWFhNjQtMWRiOTllYmEzOWE5XkEyXkFqcGdeQXVyMTMwNzYxMTUx._V1_.jpg",
+        "video": "https://www.youtube.com/embed/r7DqccP1Q_4?si=3VLoItCoZPVt6_3N",
+        "text": "Post war Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.",
+        "imdb_rating": 8.5,
+        "popularity": 4,
+        "director": [
+            {
+                "name": "Takashi Yamazaki",
+                "popularity": 5000,
+                "text": "Takashi Yamazaki was born on 12 June 1964 in Matsumoto, Nagano, Japan. He is a producer and director, known for The Fighter Pilot (2013), Always: Sunset on Third Street (2005) and Godzilla Minus One (2023). He has been married to Shimako Sato since April 2012.",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Yamazaki_Takashi_from_%22Godzilla_Minus_One%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853348355520%29_%28cropped%29.jpg",
+                "video": "https://www.youtube.com/embed/UfwghMNQxYo?si=uc_BnfDQwcvOo4c1"
+            }
+        ],
+        "writers": [
+            {
+                "name": "Takashi Yamazaki",
+                "popularity": 5000,
+                "text": "Takashi Yamazaki was born on 12 June 1964 in Matsumoto, Nagano, Japan. He is a producer and director, known for The Fighter Pilot (2013), Always: Sunset on Third Street (2005) and Godzilla Minus One (2023). He has been married to Shimako Sato since April 2012.",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Yamazaki_Takashi_from_%22Godzilla_Minus_One%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853348355520%29_%28cropped%29.jpg",
+                "video": "https://www.youtube.com/embed/UfwghMNQxYo?si=uc_BnfDQwcvOo4c1"
+            }
+        ],
+        "stars": [
+            {
+                "name": "Minami Hamabe",
+                "popularity": 5000,
+                "text": "Minami Hamabe was born on 29 August 2000 in Ishikawa, Japan. She is an actress, known for Godzilla Minus One (2023), Let Me Eat Your Pancreas (2017) and Shin Kamen Rider (2023).",
+                "img": "https://m.media-amazon.com/images/M/MV5BOWFiYjFkNjAtYjdhMy00NWQwLWFmOWMtMDFkZGUyMDE5NjQ4XkEyXkFqcGdeQXVyMTU3ODQxNDYz._V1_FMjpg_UX1000_.jpg",
+                "video": "https://www.youtube.com/embed/lY5FP5__P6w?si=8poRf5iv7NFjiPK6"
+            },
+            {
+                "name": "Ryunosuke Kamiki",
+                "popularity": 5000,
+                "text": "Ryunosuke Kamiki was born in Fujimi. He was diagnosed with a rare disease soon after he was born and was lucky enough to become one of the 1% who survived the disease. To celebrate this miracle, his mother decided to register him as a child actor in an agency to record his growth. He acted in his first TV ad when he was 2 & quickly became one of the best child actors of his generation. He debuted in TV drama when...",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kamiki_Ryunosuke_from_%22Godzilla_Minus_One%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347030272%29.jpg/1200px-Kamiki_Ryunosuke_from_%22Godzilla_Minus_One%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347030272%29.jpg",
+                "video": "https://www.youtube.com/embed/iBbC_16-mlY?si=lq0JoNZuAluUuo1q"
+            },
+            {
+                "name": "Sakura Ando",
+                "popularity": 5000,
+                "text": "With parents in the show business perhaps it is not surprising that Ando Sakura would become an actress and, moreover, also end up marrying an actor. She was born to actor/director Okuda Eiji and celebrity Kazu Ando on 18.02.1986. Her great grandfather was prime minister Tsuyoshi. Her older sister is director Ando Momoko. She saw her father on stage at age five and decided to become an actress while in...",
+                "img": "https://m.media-amazon.com/images/M/MV5BMDhkZWIwN2EtOWZhMC00NDIwLWEwMmYtYTNmYjg4N2FmMTQyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+                "video": "https://www.youtube.com/embed/kDZ9DwbMbFg?si=UagBbYalhoL-0eP0"
+            }
+        ]
+    }
+]
